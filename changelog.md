@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 2.0.6
+#### Motion
+- Added individual files for every length of low strength and high strength shaft, matching the approach already used for structure, spacers, screws, and standoffs ([#8](https://github.com/VEX-CAD/VEX-CAD-Fusion-360-Library/issues/8)).
+  - `Motion/LS Shaft/` — 24 files, 0.5" to 12.0" in 0.5" increments
+  - `Motion/HS Shaft/` — 48 files, 0.5" to 24.0" in 0.5" increments
+- Added a named `shaft_length` user parameter to `LS Shaft.f3d` and `HS Shaft.f3d`, so a custom length can be set from **Modify > Change Parameters** without editing the timeline.
+- Removed the unused off-cut body from the generated shaft files. Each length file now contains a single body.
+
 ## Version 2.0.5
 #### Field Elements
 - Added field elements for VRC Override
