@@ -54,7 +54,9 @@ If you need more help, or would like assistance from experienced users, please a
 
 ## Fusion 360 Library Contributors
 ### Current Contributors
-Currently, no one is working on updating the library. If you would like to contribute, join the [Discord server](https://discord.gg/BKV3DJm), and message the server leadership.
+- [Ryu](https://github.com/reerooryu) - 4139D, 38657Z
+
+If you would like to contribute, join the [Discord server](https://discord.gg/BKV3DJm), and message the server leadership.
 
 ### Past Contributors
 - Aidan - BUFF
@@ -66,5 +68,4 @@ Currently, no one is working on updating the library. If you would like to contr
 - [Chang](https://github.com/vindou) - 5327K, BLRS
 - [Ali](https://github.com/aliuahma) - 1353V, 80001B
 - [Zeul](https://github.com/zeulewan/) - [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import)
-- [Ryu](https://github.com/reerooryu) - 4139D
 - Ryan - 355Z
