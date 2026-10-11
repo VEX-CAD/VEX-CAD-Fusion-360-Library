@@ -17,7 +17,9 @@ This parts library features every VRC legal part currently available, and will c
 
 ### Installation
 
-Follow instructions below to use the [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import) script to import all parts at once:
+**Easiest: [Detent](https://github.com/reerooryu/fusion-library-sync).** A free Fusion add-in that installs the library and adds new parts when a release comes out, without re-importing everything.
+
+Or follow instructions below to use the [Fusion Batch Import](https://github.com/zeulewan/fusion-batch-import) script to import all parts at once:
 
 1. Download this library's [zip file from the latest release](https://github.com/VEX-CAD/VEX-CAD-Fusion-360-Library/releases/latest)
 2. Unzip the downloaded file
