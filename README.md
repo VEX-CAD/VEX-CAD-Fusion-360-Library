@@ -37,7 +37,7 @@ Most notably, the [Fusion 360 Add-In](https://github.com/vexcad/fusion-library/r
 
 There are now files for *every length* of structure, similar to the [Inventor library](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/tag/v1.4.0), and all motion pieces that support inserts now have individual files for every type of insert, including no insert.
 
-Shafts also come in every length: `Motion/LS Shaft/` covers 0.5" to 12.0" and `Motion/HS Shaft/` covers 0.5" to 24.0", both in 0.5" increments. If you need a length that isn't listed, open `Motion/LS Shaft.f3d` or `Motion/HS Shaft.f3d`, save a copy first (**File > Save As**, for example `7.25 LS Shaft`), then in the copy go to **Modify > Change Parameters** and set `shaft_length` (valid up to 12.1", the length of the stock bar in those files). Changing the original would change it in every design that uses it.
+Shafts also come in every length: `Motion/LS Shafts/` covers 0.5" to 12.0" and `Motion/HS Shafts/` covers 0.5" to 24.0", both in 0.5" increments. If you need a length that isn't listed, open `Motion/LS Shaft.f3d` or `Motion/HS Shaft.f3d`, save a copy first (**File > Save As**, for example `7.25 LS Shaft`), then in the copy go to **Modify > Change Parameters** and set `shaft_length` (valid up to 12.1", the length of the stock bar in those files). Changing the original would change it in every design that uses it.
 
 Additionally, every available length for spacers, screws, and standoffs are now available. 
 
